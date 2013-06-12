@@ -1,5 +1,5 @@
-geekout
-=======
+# geekout
+## June 2013
 
 
 * Example repo
